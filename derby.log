@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Wed Jan 22 15:46:40 IST 2014:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0143-b973-a50a-0000068c3808 
-on database directory /home/kasun/Desktop/hibernate-session-fac-test/testDB with class loader sun.misc.Launcher$AppClassLoader@5a74b10b 
+Thu Jan 23 16:33:20 IST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0143-bec4-b9c8-0000068d8198 
+on database directory /home/kasun/Desktop/hibernate-session-fac-test/testDB with class loader sun.misc.Launcher$AppClassLoader@23137792 
 Loaded from file:/home/kasun/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.7.0_45-b18
